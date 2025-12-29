@@ -1,0 +1,13 @@
+From python:3.9-slim-buster
+
+add backend/requirements.txt /apprequirements.txt
+
+run pip install -r /apprequirements.txt
+
+add backend /app
+
+workdir /app
+
+entrypoint ["python"]
+
+cmd ["app.py"]

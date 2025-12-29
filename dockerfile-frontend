@@ -1,0 +1,13 @@
+from node:18-alpine
+
+add frontend /app
+
+workdir /app
+
+run npm install
+
+entrypoint ["npm"]
+
+cmd ["start"]
+
+
