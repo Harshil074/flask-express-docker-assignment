@@ -98,5 +98,13 @@ Multi-container management using Docker Compose
 
 Real-world full-stack deployment workflow
 
+Screenshoots
+<img width="1036" height="426" alt="docker backend push" src="https://github.com/user-attachments/assets/4285de69-1dba-40a4-8e4b-1fb0bbd1c2a2" />
+<img width="837" height="332" alt="docker both running " src="https://github.com/user-attachments/assets/7b0370a6-0e79-4c67-a901-c5f27950e239" />
+<img width="1551" height="761" alt="docker compose" src="https://github.com/user-attachments/assets/529c8ffa-7487-491b-bb06-bac663a7acde" />
+<img width="966" height="695" alt="docker front end push" src="https://github.com/user-attachments/assets/eb6a006d-0400-4562-bcfa-e12c97a558b7" />
+<img width="1883" height="527" alt="docker imagess" src="https://github.com/user-attachments/assets/8878f8a7-55b8-4f23-8ae1-16619da4839a" />
+
 👤 Author
 Harshil Bhardwaj
+
